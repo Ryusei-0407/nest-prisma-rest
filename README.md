@@ -2,8 +2,6 @@
 
 ## Setup!!
 
----
-
 ```sh
 # npm install -g pnpm (if you unused `pnpm`)
 
@@ -11,8 +9,6 @@ make
 ```
 
 ## Using the REST API
-
----
 
 ## GET
 
